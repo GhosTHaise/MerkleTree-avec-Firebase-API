@@ -1,4 +1,6 @@
 # MerkleTree-avec-Firebase-API
+Ce projet a été réaliser pour vous permettre de génerer un MerkleTree ,d'obtenir par la suite la racine et la preuve pour vos DAPP.
+
 Initialiser le projet en installant tous les dépendance :
 ```shell
 npm install
