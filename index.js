@@ -29,4 +29,5 @@ const AfficherMerkle_Proof = async(address) => {
     console.log("Proof : "+proof);
     console.log("Root : "+root);
 } 
+//exemple
 AfficherMerkle_Proof("0xc23EC2B7a2C89fF16C5cF1942a8c9B4eE50Cd742")
