@@ -4,7 +4,7 @@ Initialiser le projet en installant tous les dépendance :
 npm install
 ```
 
-1-Se rendre sur https://firebase.google.com 
+1-Se rendre sur https://firebase.google.com </br>
 2-Creer un compte si vous n'en avez pas encore
 3-Creer un projet web
 4-Creer une "collection" : WhiteList
